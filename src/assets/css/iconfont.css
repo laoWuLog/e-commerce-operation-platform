@@ -1,0 +1,106 @@
+@font-face {
+  font-family: 'iconfont';
+  /* Project id 2552676 */
+  src: url('//at.alicdn.com/t/font_2552676_si9vg16xca.woff2?t=1621236565779') format('woff2'), url('//at.alicdn.com/t/font_2552676_si9vg16xca.woff?t=1621236565779') format('woff'), url('//at.alicdn.com/t/font_2552676_si9vg16xca.ttf?t=1621236565779') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+  color: #fff !important;
+}
+.homepage::before {
+  content: "\e620";
+  margin-right: 20px;
+}
+.product::before {
+  content: "\e64f";
+  margin-right: 20px;
+}
+.product-list::before {
+  content: "\e629";
+  margin-right: 20px;
+}
+.product-add::before {
+  content: "\e64e";
+  margin-right: 20px;
+}
+.product-cate::before {
+  content: "\e724";
+  margin-right: 20px;
+}
+.product-attr::before {
+  content: "\e64d";
+  margin-right: 20px;
+}
+.product-brand::before {
+  content: "\e7b8";
+  margin-right: 20px;
+}
+.order::before {
+  content: "\e63a";
+  margin-right: 20px;
+}
+.order-setting::before {
+  content: "\e606";
+  margin-right: 20px;
+}
+.order-return::before {
+  content: "\e607";
+  margin-right: 20px;
+}
+.order-return-reason::before {
+  content: "\e612";
+  margin-right: 20px;
+}
+.sms::before {
+  content: "\e604";
+  margin-right: 20px;
+}
+.sms-flash::before {
+  content: "\e653";
+  margin-right: 20px;
+}
+.sms-coupon::before {
+  content: "\e635";
+  margin-right: 20px;
+}
+.sms-new::before {
+  content: "\e60e";
+  margin-right: 20px;
+}
+.sms-hot::before {
+  content: "\e609";
+  margin-right: 20px;
+}
+.sms-subject::before {
+  content: "\e62a";
+  margin-right: 20px;
+}
+.sms-ad::before {
+  content: "\e61d";
+  margin-right: 20px;
+}
+.ums::before {
+  content: "\e656";
+  margin-right: 20px;
+}
+.ums-admin::before {
+  content: "\e817";
+  margin-right: 20px;
+}
+.ums-role::before {
+  content: "\e62d";
+  margin-right: 20px;
+}
+.ums-menu::before {
+  content: "\e652";
+  margin-right: 20px;
+}
+.ums-resource::before {
+  content: "\e6ba";
+  margin-right: 20px;
+}
